@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Cafe",
+      "price": "50",
+      "urlImg":"http://example.com",
+      "category":"Bebida-Caliente"
+    },
+    {
+      "id": 2,
+      "productName": "Liquado",
+      "price": "100",
+      "urlImg":"http://example.com",
+      "category":"Bebida-Fria"
+    },
+    {
+      "id": 3,
+      "productName": "Sandwichs",
+      "price": "80",
+      "urlImg":"http://example.com",
+      "category":"Comida-Fria"
+    }
+  ]
+}
