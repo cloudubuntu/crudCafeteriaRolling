@@ -1,32 +1,32 @@
 {
   "products": [
     {
-      "id": 1,
       "productName": "Cafe",
       "price": "50",
       "urlImg": "http://example.com",
-      "category": "Bebida-Caliente"
+      "category": "dulce",
+      "id": 1
     },
     {
       "id": 2,
       "productName": "Liquado",
       "price": "100",
       "urlImg": "http://example.com",
-      "category": "Bebida-Fria"
+      "category": "bebida-fria"
     },
     {
       "id": 3,
       "productName": "Sandwichs",
       "price": "80",
       "urlImg": "http://example.com",
-      "category": "Comida-Fria"
+      "category": "comida-fria"
     },
     {
       "id": 4,
       "productName": "Prueba",
       "price": "Prueba",
       "urlImg": "http://example.com/prueba",
-      "category": "Prueba"
+      "category": "comida-fria"
     },
     {
       "productName": "prueba",
