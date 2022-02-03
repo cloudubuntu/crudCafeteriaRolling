@@ -20,6 +20,13 @@
       "price": "80",
       "urlImg":"http://example.com",
       "category":"Comida-Fria"
+    },
+    {
+      "id": 4,
+      "productName": "Prueba",
+      "price": "Prueba",
+      "urlImg":"http://example.com/prueba",
+      "category":"Prueba"
     }
   ]
 }
