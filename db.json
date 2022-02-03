@@ -4,29 +4,64 @@
       "id": 1,
       "productName": "Cafe",
       "price": "50",
-      "urlImg":"http://example.com",
-      "category":"Bebida-Caliente"
+      "urlImg": "http://example.com",
+      "category": "Bebida-Caliente"
     },
     {
       "id": 2,
       "productName": "Liquado",
       "price": "100",
-      "urlImg":"http://example.com",
-      "category":"Bebida-Fria"
+      "urlImg": "http://example.com",
+      "category": "Bebida-Fria"
     },
     {
       "id": 3,
       "productName": "Sandwichs",
       "price": "80",
-      "urlImg":"http://example.com",
-      "category":"Comida-Fria"
+      "urlImg": "http://example.com",
+      "category": "Comida-Fria"
     },
     {
       "id": 4,
       "productName": "Prueba",
       "price": "Prueba",
-      "urlImg":"http://example.com/prueba",
-      "category":"Prueba"
+      "urlImg": "http://example.com/prueba",
+      "category": "Prueba"
+    },
+    {
+      "productName": "prueba",
+      "price": "50",
+      "urlImg": "http://localhost:3000/product/create",
+      "category": "salado",
+      "id": 5
+    },
+    {
+      "productName": "prueba",
+      "price": "100",
+      "urlImg": "http://localhost:3000/product/create",
+      "category": "sandwitch",
+      "id": 6
+    },
+    {
+      "productName": "prueba3",
+      "price": "113",
+      "urlImg": "http://localhost:3000/product/create",
+      "category": "sandwitch",
+      "id": 7
+    },
+    {
+      "productName": "prueba4",
+      "price": "114",
+      "urlImg": "http://localhost:3000/product/create",
+      "category": "bebida-caliente",
+      "id": 8
+    },
+    {
+      "productName": "1234",
+      "price": "22",
+      "urlImg": "http://localhost:3000/product/create",
+      "category": "bebida-caliente",
+      "id": 9
     }
   ]
 }
