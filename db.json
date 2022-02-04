@@ -20,20 +20,6 @@
       "price": "80",
       "urlImg": "http://example.com",
       "category": "bebida-fria"
-    },
-    {
-      "productName": "Pruebamod",
-      "price": "50",
-      "urlImg": "http://example.com/prueba",
-      "category": "bebida-fria",
-      "id": 4
-    },
-    {
-      "productName": "nameTest",
-      "price": "150",
-      "urlImg": "https://sweetalert2.github.io/",
-      "category": "bebida-caliente",
-      "id": 5
     }
   ]
 }
