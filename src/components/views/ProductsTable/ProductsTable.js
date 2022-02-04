@@ -13,6 +13,7 @@ const ProductTable = ({products, URL, getApi}) => {
         </div>
         <hr />
         {/* Table of products */}
+        {products.length !== 0 ?
         <Table bordered hover responsive className="align-middle mt-3">
           <thead>
             <tr>
@@ -29,10 +30,14 @@ const ProductTable = ({products, URL, getApi}) => {
            
           </tbody>
         </Table>
-        {/* No products found message */}
-        {/* <div className="no-products-found d-flex align-items-center justify-content-center">
-          <h1>🥐 No products found ☕</h1>
-        </div> */}
+        :
+       
+         <div className="no-products-found d-flex align-items-center justify-content-center">
+           {/* NO PRODUCTS FOUND */}
+           <h1>🥐 No products found ☕</h1>
+        </div> 
+        
+      }
       </Container>
     </div>
   );

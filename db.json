@@ -1,25 +1,32 @@
 {
   "products": [
     {
-      "productName": "Cafexz",
-      "price": "50",
-      "urlImg": "http://example.com",
-      "category": "dulce",
+      "productName": "Cafe",
+      "price": "100",
+      "urlImg": "https://images.pexels.com/photos/3879495/pexels-photo-3879495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "category": "bebida-caliente",
       "id": 1
     },
     {
-      "id": 2,
-      "productName": "Liquado",
-      "price": "100",
-      "urlImg": "http://example.com",
-      "category": "bebida-fria"
+      "productName": "Milk Shake",
+      "price": "250",
+      "urlImg": "https://images.pexels.com/photos/2045362/pexels-photo-2045362.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "category": "bebida-fria",
+      "id": 2
     },
     {
-      "id": 3,
-      "productName": "Sandwichs",
-      "price": "80",
-      "urlImg": "http://example.com",
-      "category": "bebida-fria"
+      "productName": "Croissant",
+      "price": "85",
+      "urlImg": "https://images.pexels.com/photos/2135/food-france-morning-breakfast.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "category": "dulce",
+      "id": 3
+    },
+    {
+      "productName": "Sandwich",
+      "price": "240",
+      "urlImg": "https://images.pexels.com/photos/6529599/pexels-photo-6529599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "category": "sandwitch",
+      "id": 4
     }
   ]
 }
